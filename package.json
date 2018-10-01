@@ -41,7 +41,7 @@
     "vorpal": "https://github.com/alansouzati/vorpal/tarball/EXIT_ON_PARSE",
     "walk": "^2.3.9",
     "webpack": "^2.2.1",
-    "webpack-dev-server": "^2.3.0"
+    "webpack-dev-server": "^3.1.6"
   },
   "devDependencies": {
     "babel-cli": "^6.11.4",
