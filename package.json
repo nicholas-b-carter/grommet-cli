@@ -35,7 +35,7 @@
     "opener": "^1.4.2",
     "pretty-hrtime": "^1.0.3",
     "rimraf": "^2.5.4",
-    "sass-lint": "^1.10.2",
+    "sass-lint": "^1.13.0",
     "shelljs": "^0.7.3",
     "text-table": "^0.2.0",
     "vorpal": "https://github.com/alansouzati/vorpal/tarball/EXIT_ON_PARSE",
