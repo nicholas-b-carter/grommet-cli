@@ -29,7 +29,7 @@
     "fs-extra": "^1.0.0",
     "glob": "^7.1.1",
     "glob-to-regexp": "^0.3.0",
-    "jest-cli": "^18.1.0",
+    "jest-cli": "^24.9.0",
     "mkdirp": "^0.5.1",
     "node-emoji": "^1.4.3",
     "opener": "^1.4.2",
@@ -40,7 +40,7 @@
     "text-table": "^0.2.0",
     "vorpal": "https://github.com/alansouzati/vorpal/tarball/EXIT_ON_PARSE",
     "walk": "^2.3.9",
-    "webpack": "^2.2.1",
+    "webpack": "^4.0.0",
     "webpack-dev-server": "^2.3.0"
   },
   "devDependencies": {
